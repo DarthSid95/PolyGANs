@@ -1,0 +1,44 @@
+name: PolyGAN
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - cudatoolkit=11.3.1=h2bc3f7f_2
+  - cudnn=8.2.1=cuda11.3_0
+  - ffmpeg=4.0=hcdf2ecd_0
+  - hdf5=1.10.2=hba1933b_1
+  - numpy-base=1.17.0=py36h2f8d375_0
+  - opencv=3.4.2=py36h6fd60c2_1
+  - pillow=8.3.1=py36h2c7a002_0
+  - pip=20.0.2=py36_3
+  - py-opencv=3.4.2=py36hb342d67_1
+  - python=3.6.10=h7579374_2
+  - pytorch=1.4.0=py3.6_cpu_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - pip:
+    - absl-py==0.9.0
+    - clean-fid==0.1.15
+    - gdown==4.0.2
+    - h5py==2.10.0
+    - ipython==7.15.0
+    - ipython-genutils==0.2.0
+    - keras-nightly==2.5.0.dev2021032900
+    - keras-preprocessing==1.1.2
+    - matplotlib==3.1.3
+    - numpy==1.19.5
+    - pot==0.8.0
+    - scikit-learn==0.22.1
+    - scipy==1.4.1
+    - tensorboard==2.5.0
+    - tensorboard-data-server==0.6.1
+    - tensorboard-plugin-wit==1.8.0
+    - tensorflow-addons==0.13.0
+    - tensorflow-datasets==4.4.0
+    - tensorflow-estimator==2.5.0
+    - tensorflow-gpu==2.5.0
+    - tensorflow-metadata==1.2.0
+    - tensorflow-probability==0.13.0
+    - torch==1.10.0+cu113
+    - torchaudio==0.10.0+cu113
+    - torchvision==0.11.1+cu113
+    - tqdm==4.42.1
