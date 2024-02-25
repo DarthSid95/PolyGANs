@@ -3,7 +3,7 @@ The Optimal GAN Discriminator is a High-dimensional Interpolator.
 
 ## Introduction
 
-This is the Code submission accompanying the ICML 2022 Submission "The Optimal GAN Discriminator is a High-dimensional Interpolator." All codes are in Tensorflow2.0 Keras, and can be implemented on either GPU, CPU and on Colab or locally. A public version of this code will be released with the camera-ready version of the paper
+This is the Code submission accompanying the SIAM SIMODS 2024 Submission "The Optimal Discriminator in Higher-order Gradient-regularized Generative Adversarial Networks." All codes are in Tensorflow2.0 Keras, and can be implemented on either GPU, CPU and on Colab or locally. A public version of this code will be released with the camera-ready version of the paper
 
 ## PolyGAN RBF
 
@@ -155,11 +155,6 @@ The default values of the various flags used in the bash files are discussed in 
 ----------------------------------
 ----------------------------------
 
-----------------------------------
-
-**Anon - Author**  
-**Anon - University**  
-**an@nymous.email.id**  
 
 ----------------------------------
 ----------------------------------
